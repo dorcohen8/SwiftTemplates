@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>DF9AA12E-EF49-4D6B-BDD1-3972927BDD37</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ParseStarterProject</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>56333866E05DA003812F88B467499E3B55F216F7</key>
+		<string>https://github.com/dorcohen8/SwiftTemplates.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Basic signup &amp; Login with Parse/ParseStarterProject.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>56333866E05DA003812F88B467499E3B55F216F7</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/dorcohen8/SwiftTemplates.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>56333866E05DA003812F88B467499E3B55F216F7</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>56333866E05DA003812F88B467499E3B55F216F7</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SwiftTemplates</string>
+		</dict>
+	</array>
+</dict>
+</plist>
